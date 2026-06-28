@@ -3,10 +3,8 @@ ccxt
 python-dotenv
 schedule
 pandas
-pandas_ta
 numpy
 requests
-textblob
 yfinance
 feedparser
 beautifulsoup4

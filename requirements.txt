@@ -1,10 +1,6 @@
 telebot
 ccxt
-python-dotenv
-schedule
+yfinance
 pandas
 numpy
-requests
-yfinance
-feedparser
-beautifulsoup4
+python-dotenv
